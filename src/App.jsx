@@ -28,10 +28,6 @@ function App() {
     setTasks(updatedTasks);
   };
 
-  const edittask = (index) => {
-    setTask(tasks[index]);
-    setEditingIndex(index);
-  };
 
   return (
     <>
