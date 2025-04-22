@@ -77,10 +77,6 @@ lambda_projects/
 
 Feel free to fork this repository and submit pull requests. Bug fixes, improvements, and suggestions are always welcome.
 
-## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
 
 Made by [sreeteja2006](https://github.com/sreeteja2006) using React and Tailwind CSS.
