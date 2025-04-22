@@ -61,10 +61,9 @@ lambda_projects/
 
 ## Screenshot
 
-*(You can add a screenshot of your app here. Place the image in your repo and update the path below)*
 
 ```
-![Todo List Screenshot](./screenshot.png)
+![Todo List Screenshot](./lambda_task.png)
 ```
 
 ## How It Works
